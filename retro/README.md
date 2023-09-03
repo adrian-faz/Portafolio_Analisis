@@ -1,7 +1,6 @@
 # Carpeta de Retroalimentación
 
-## En esta carpeta, se podrán encontrar los archivos que están listos para ser retroalimentados, pues son las versiones de borrador de las entregas finales.
-
+En esta carpeta se encuentran las actividades y entregas que están listas para ser retroalimentadas por los profesores. Son las versiones borrador de las entregas finales. 
 
 
 

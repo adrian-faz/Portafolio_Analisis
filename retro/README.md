@@ -10,5 +10,8 @@ Esta carpeta se encuentra dividida de la siguiente manera:
 * **M2_ML:** Carpeta con las actividades y entregas de versión borrador del módulo de Machine Learning.
 
 
+## Archivos
+
+* **README.md** Este archivo, el cual describe el contenido de la carpeta "retro".
 
 

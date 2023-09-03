@@ -16,10 +16,10 @@ El repositorio contiene las siguientes carpetas:
 A continuación se presentan los archivos que están listos para ser retroalimentados: 
 
 * ### Módulo 1: Estadística
-   * **MR_Tecnicas:** - Entrega en: https://github.com/adrian-faz/Portafolio_Analisis/tree/main/retro/M1_Estadistica/MR_Tecnicas
+   * **MR_Tecnicas** - Entrega en: https://github.com/adrian-faz/Portafolio_Analisis/tree/main/retro/M1_Estadistica/MR_Tecnicas
      
 * ### Módulo 2: Machine Learning
-   * **MR_Normativa:** Entrega en: https://github.com/adrian-faz/Portafolio_Analisis/tree/main/retro/M2_ML/MR_Normativa
+   * **MR_Normativa** - Entrega en: https://github.com/adrian-faz/Portafolio_Analisis/tree/main/retro/M2_ML/MR_Normativa
 
 
 

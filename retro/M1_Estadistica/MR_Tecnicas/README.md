@@ -6,6 +6,6 @@ En esta carpeta se encuentran los archivos pertenecientes a la actividad de Téc
 Esta carpeta contiene las siguientes carpetas y archivos:
 
 * ### **Archivos**
-  * **README.md** Este archivo, el cual describe el contenido de la carpeta "MR_Tecnicas".
+  * **README.md** - Este archivo, el cual describe el contenido de la carpeta "MR_Tecnicas".
   * **PortafolioM1_Act01_Sem3.ipynb** - Notebook que contiene todo el desarrollo de la actividad, incluyendo código e interpretación.
   * **precios_autos.csv** - Archivo csv que contiene los datos utilizados para la actividad.

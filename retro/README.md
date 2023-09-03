@@ -2,5 +2,13 @@
 
 En esta carpeta se encuentran las actividades y entregas que están listas para ser retroalimentadas por los profesores. Son las versiones borrador de las entregas finales. 
 
+Esta carpeta se encuentra dividida de la siguiente manera:
+
+### Carpetas
+
+* #### M1_Estadistica
+* #### M2_ML
+
+
 
 

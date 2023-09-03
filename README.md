@@ -15,6 +15,9 @@ El repositorio contiene las siguientes carpetas:
 ## Archivos para revisión
 A continuación se presentan los archivos que están listos para ser retroalimentados: 
 
+* Módulo 1: Estadística
+*  * Hola
+
 
 
 ## Cambios requeridos 

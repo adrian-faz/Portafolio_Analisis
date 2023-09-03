@@ -6,8 +6,8 @@ Esta carpeta se encuentra dividida de la siguiente manera:
 
 ### Carpetas
 
-* #### M1_Estadistica
-* #### M2_ML
+* M1_Estadistica: Carpeta con las actividades y entregas de versión borrador del módulo de Estadística.
+* M2_ML: Carpeta con las actividades y entregas de versión borrador del módulo de Machine Learning.
 
 
 

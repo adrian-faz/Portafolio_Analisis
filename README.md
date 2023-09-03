@@ -6,9 +6,9 @@ En este repositorio se encuentran las actividades pertenecientes al portafolio d
 ## Estructura
 El repositorio contiene las siguientes carpetas:
 
-* **Archivos**
+* ### **Archivos**
   * README.md: Este archivo, el cual describe el propósito y la estructura del repositorio.  
-* **Carpetas**
+* ### **Carpetas**
    * final: Carpeta con la información de los entregables finales, cuando ya están listos para ser evaluados.
    * retro: Carpeta con los archivos e información cuando están en etapa de borrador. Están listos para obtener retroalimentación por los profesores.
 

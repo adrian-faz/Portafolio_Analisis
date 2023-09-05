@@ -22,6 +22,7 @@ A continuación se presentan los archivos que están listos para ser retroalimen
      
 * ### Módulo 2: Machine Learning
    * **MR_Normativa** - Entrega en: https://github.com/adrian-faz/Portafolio_Analisis/tree/main/retro/M2_ML/MR_Normativa
+   * **MR_Reporte** - Entrega en: https://github.com/adrian-faz/Portafolio_Analisis/tree/main/retro/M2_ML/MR_Reporte
 
 
 

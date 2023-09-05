@@ -25,3 +25,7 @@ El problema presentado en este caso es de **clasificación**, pues se busca gene
 
 El modelo a utilizar fue el **Decision Tree Classifier**, el cual es un algoritmo de aprendizaje supervisado que descompone un problema complejo en subproblemas más simples, tomando decisiones basadas en las características de los datos. Este árbol se compone de nodos que representan condiciones, y ramas, que serían las posibles respuestas. Lo que se busca  es llegar a una "hoja" que contiene la clase a la que pertenece.
 
+## Archivos a revisar para evaluar subcompetencias
+
+Para evaluar las subcompetencias, se debe de revisar el siguiente archivo:
+* *Desempeño_Modelo.ipynb*

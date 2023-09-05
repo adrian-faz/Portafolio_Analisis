@@ -1,6 +1,6 @@
 # Actividad: Análisis y Reporte sobre el desempeño del modelo.
 
-En esta actividad, se analiza el desempeño del modelo creado en una de las actividades previas, se identifica sesgo, varianza y  
+En esta actividad, se analiza el desempeño del modelo creado en una de las actividades previas, se identifica sesgo, varianza y el ajuste del modelo.
 Esta carpeta contiene los archivos solicitados para completar la actividad, está compuesta por:
 * **Desempeño_Modelo.ipynb**: Notebook donde se encuentra el código realizado y la implementación del modelo, además de las explicaciones pertinentes.
 * **iris.csv**: Archivo donde se encuentran los datos del set de datos utilizado en la actividad en formato csv.
